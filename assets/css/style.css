@@ -111,7 +111,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 12em;
 }
 
 /*--------------------------------------------------------------
@@ -1254,6 +1254,8 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+  width: 100%;
+  
 }
 
 .team .member .social {
