@@ -41,7 +41,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ff3c0059;
+  background: rgb(137, 55, 34);
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -55,7 +55,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ff3c0059;
+  background: rgb(137, 55, 34);
   color: #fff;
 }
 
@@ -162,7 +162,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  background: #ff3c0059;
+  background: rgb(137, 55, 34);
 }
 
 .navbar .dropdown ul {
@@ -187,7 +187,7 @@ h6 {
 
 .navbar .dropdown ul a {
   padding: 10px 20px;
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
   margin: 0 5px;
   font-size: 14px;
 }
@@ -290,7 +290,7 @@ h6 {
   padding: 10px 20px;
   margin: 5px;
   font-size: 15px;
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
 }
 
 .navbar-mobile a:hover,
@@ -523,7 +523,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
 }
 
 /*--------------------------------------------------------------
@@ -598,7 +598,7 @@ section {
   border: 1px solid #d4d6df;
   padding: 15px;
   transition: 0.3s;
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
   border-radius: 0;
   display: flex;
   align-items: center;
@@ -676,7 +676,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #ff3c0059;
+  background: rgb(137, 55, 34);
   padding: 80px 0;
 }
 
@@ -764,7 +764,7 @@ section {
 }
 
 .services .title a {
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
   transition: ease-in-out 0.3s;
 }
 
@@ -1302,7 +1302,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
 }
 
 .team .member .member-info span {
@@ -1351,7 +1351,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #ff3c0059;
+  color: rgb(137, 55, 34);
 }
 
 .contact .info p {
