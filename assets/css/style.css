@@ -1546,7 +1546,8 @@ section {
 }
 
 #footer .social-links {
-  margin: 0 0 40px 0;
+  margin-right: 0.7em;
+  color: #ff3c0039;
 }
 
 #footer .social-links a {
