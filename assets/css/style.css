@@ -692,7 +692,7 @@ section {
 
 .cta .cta-btn {
   font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 1px;
